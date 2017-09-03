@@ -22,7 +22,9 @@ $ composer require femonofsky/remita
 
 or
 Add the following to your require block in composer.json config
-
+``` bash
+$ "femonofsky/remita": "~1.0"
+```
 
 
 ## Usage
@@ -33,7 +35,7 @@ Add the following to your require block in composer.json config
 
 ## Credits
 
-- [:Femonofsky](https://github.com/femonofsky)
+- [Femonofsky](https://github.com/femonofsky)
 - [All Contributors](https://github.com/femonofsky/remita-laravel/contributors)
 
 ## License
