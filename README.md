@@ -39,7 +39,7 @@ Please see [CONTRIBUTING](https://github.com/femonofsky/remita-laravel/master/CO
 
 ## Credits
 
-- [:author_name](https://github.com/femonofsky)
+- [:Femonofsky](https://github.com/femonofsky)
 - [All Contributors](https://github.com/femonofsky/remita-laravel/contributors)
 
 ## License
