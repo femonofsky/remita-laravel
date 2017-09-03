@@ -3,7 +3,7 @@
     "description": "A PHP wrapper that help you with Remita Payment Gateway Integration",
     "type": "library",
     "keywords": ["laravel","Remita","Payment","Gateway","Integration"],
-
+    "homepage": "https://github.com/femonofsky/remita-laravel",
     "license": "MIT",
     "authors": [
         {
