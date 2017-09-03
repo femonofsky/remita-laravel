@@ -1,0 +1,22 @@
+{
+    "name": "femonofsky/remita",
+    "description": "A PHP wrapper that help you with Remita Payment Gateway Integration",
+    "type": "library",
+    "keywords": ["laravel","Remita","Payment","Gateway","Integration"],
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akinnurun Oluwafemi",
+            "email": "femmy4lov@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Femonofsky\\Remita\\": "src/"
+        }
+    }
+}
