@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/thephpleague/skeleton/master.svg?style=flat-square)](https://travis-ci.org/thephpleague/skeleton)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/thephpleague/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/skeleton/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/thephpleague/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/femonofsky/remita)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/femonofsky/remita)
+[![Total Downloads](https://img.shields.io/packagist/dt/femonofsky/remita.svg?style=flat-square)](https://packagist.org/packages/femonofsky/remita)
 
 **Note:** Replace `skeleton` with the correct package name in the above URLs, then delete this line.
 
