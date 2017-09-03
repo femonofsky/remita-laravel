@@ -20,20 +20,16 @@ Via Composer
 $ composer require femonofsky/remita
 ```
 
+or
+Add the following to your require block in composer.json config
+
+
+
 ## Usage
 
 ``` php
 
 ```
-
-## Testing
-
-``` bash
-```
-
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/femonofsky/remita-laravel/CONTRIBUTING.md) for details.
 
 ## Credits
 
